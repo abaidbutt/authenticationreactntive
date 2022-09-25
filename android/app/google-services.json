@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633746099491",
+    "project_id": "buildauthsystem",
+    "storage_bucket": "buildauthsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633746099491:android:f3bc59a0c70d5b547c9096",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633746099491-phlkpsd2lf59ooriq9giau84k3drog1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGFCoBSIIyQwZtArVpmafYnhiTn-zVVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633746099491-phlkpsd2lf59ooriq9giau84k3drog1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
