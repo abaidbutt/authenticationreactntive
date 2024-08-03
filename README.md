@@ -1,4 +1,3 @@
-# authenticationreactntive
 # React Native Firebase Authentication
 
 This is a React Native project that demonstrates how to implement user authentication using Firebase. The project uses React Navigation for routing, Gesture Handler for smooth gestures, Context and Reducer for state management, and Firebase for user login, registration, logout, email verification, and password reset.
